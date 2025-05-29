@@ -1,4 +1,4 @@
-AI-Based Fighting Game Bot
+AI-Based Fighting Game Bot:
  Project Overview:
 The aim of this project was to develop an AI-powered bot capable of playing the Street 
 Fighter II Turbo (U) game in the BizHawk Emulator. The bot uses a machine learning 
